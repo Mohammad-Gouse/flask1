@@ -1,0 +1,11 @@
+.env
+.idea/
+__pycache__
+file.csv
+*.csv
+*.py[cod]
+*.logs
+setup.py
+data/
+*.pyc
+*.log
